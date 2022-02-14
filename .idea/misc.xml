@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/custombutton_blow.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/custombutton_equipment.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/custombutton_grip.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/custombutton_service.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_blowskill.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_equipmentskill.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_grip_skill.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_serviceskill.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/header.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/layout_main.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/layout/nav_head.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Dashboard/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
